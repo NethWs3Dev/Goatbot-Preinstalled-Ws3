@@ -49,7 +49,8 @@
 		"sqlite3": "^5.0.5",
 		"tinyurl": "^1.1.7",
 		"totp-generator": "^0.0.13",
-		"websocket-stream": "^5.5.2"
+		"websocket-stream": "^5.5.2",
+		"ws3-fca", "^1.0.46"
 	},
 	"scripts": {
 		"start": "set NODE_ENV=&& node index.js",
